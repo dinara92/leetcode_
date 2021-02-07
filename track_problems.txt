@@ -1,0 +1,10 @@
+##### Tracking solved leetcode problems
+
+
+Easy:
+1480. Running Sum of 1d Array
+938. Range Sum of BST
+
+
+
+56. Merge Intervals
